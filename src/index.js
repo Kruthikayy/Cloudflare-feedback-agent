@@ -1,4 +1,4 @@
-// S.E.N.T.R.Y - Signal Extraction & Noise-Trimming Relay Yard
+// Cloudsignal - Signal Extraction & Noise-Trimming Relay Yard
 // Cloudflare Internal Feedback Intelligence Tool
 // Uses: Workers AI, D1 Database
 
