@@ -6,11 +6,7 @@ AI-powered feedback intelligence tool built on **Cloudflare Workers**, **D1**, a
 - Collects product/user feedback (via UI or API)
 - Stores feedback in Cloudflare **D1**
 - Uses **Workers AI** to classify / summarize / extract themes
-- (Optional) Shows a dashboard / results UI
-
-## Demo
-- Live URL: <ADD_DEPLOYED_URL_HERE>
-- Screenshots: <ADD_1-2_SCREENSHOTS_OR_GIF_HERE>
+- Shows a dashboard / results UI
 
 ## Features
 - ✅ Feedback ingestion (form / endpoint)
@@ -23,7 +19,7 @@ AI-powered feedback intelligence tool built on **Cloudflare Workers**, **D1**, a
 - Cloudflare Workers
 - Cloudflare D1 (SQLite)
 - Cloudflare Workers AI
-- Vite (if used) / Static assets in `public/` (if true)
+- Vite  / Static assets in `public/` 
 
 ## Project Structure
 ```txt
